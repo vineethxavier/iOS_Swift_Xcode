@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+// checking git push
 var zip:Int? = 76013
 var zip1:String? = "76013"
 var typeSearch:String? = "Restaurant"
